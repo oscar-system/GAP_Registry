@@ -1,0 +1,4 @@
+name = "GAP_pkg_transgrp"
+uuid = "961097a6-ba5f-449c-b6a7-fa86404cb036"
+repo = "https://github.com/oscar-system/GAP_pkg.git"
+subdir = "GAP_pkg_transgrp"
