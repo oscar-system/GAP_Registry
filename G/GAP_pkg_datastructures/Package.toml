@@ -1,0 +1,4 @@
+name = "GAP_pkg_datastructures"
+uuid = "cd6d275d-d97d-4e06-a33f-4e0166a71cf0"
+repo = "https://github.com/oscar-system/GAP_pkg.git"
+subdir = "GAP_pkg_datastructures"
