@@ -1,0 +1,4 @@
+name = "GAP_pkg_unipot"
+uuid = "f7a7ecdb-feff-4c9b-bf4c-d8ba1d8a86c8"
+repo = "https://github.com/oscar-system/GAP_pkg.git"
+subdir = "GAP_pkg_unipot"

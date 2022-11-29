@@ -8,3 +8,4 @@ repo = "https://github.com/oscar-system/GAP_Registry"
 b385582e-9628-4fed-8f60-9a4f3165a09f = { name = "GAP_pkg_io", path = "G/GAP_pkg_io" }
 cd6d275d-d97d-4e06-a33f-4e0166a71cf0 = { name = "GAP_pkg_datastructures", path = "G/GAP_pkg_datastructures" }
 e83d47c0-0280-46da-a94c-e156da9218fd = { name = "GAP_pkg_forms", path = "G/GAP_pkg_forms" }
+f7a7ecdb-feff-4c9b-bf4c-d8ba1d8a86c8 = { name = "GAP_pkg_unipot", path = "G/GAP_pkg_unipot" }
