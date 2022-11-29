@@ -1,0 +1,4 @@
+name = "GAP_pkg_ferret"
+uuid = "13910343-4192-49a9-bb81-0d469eac0d3f"
+repo = "https://github.com/oscar-system/GAP_pkg.git"
+subdir = "GAP_pkg_ferret"
