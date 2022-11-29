@@ -3,5 +3,6 @@ uuid = "77a0fa8e-e3a3-4df6-a7b4-afeaa12e2d26"
 repo = "https://github.com/oscar-system/GAP_Registry"
 
 [packages]
+0c7c8706-c342-4f07-95b6-eaac458819d8 = { name = "GAP_pkg_cvec", path = "G/GAP_pkg_cvec" }
 b385582e-9628-4fed-8f60-9a4f3165a09f = { name = "GAP_pkg_io", path = "G/GAP_pkg_io" }
 cd6d275d-d97d-4e06-a33f-4e0166a71cf0 = { name = "GAP_pkg_datastructures", path = "G/GAP_pkg_datastructures" }

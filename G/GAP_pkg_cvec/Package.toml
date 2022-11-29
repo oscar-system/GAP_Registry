@@ -1,0 +1,4 @@
+name = "GAP_pkg_cvec"
+uuid = "0c7c8706-c342-4f07-95b6-eaac458819d8"
+repo = "https://github.com/oscar-system/GAP_pkg.git"
+subdir = "GAP_pkg_cvec"
