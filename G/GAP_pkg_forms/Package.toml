@@ -1,0 +1,4 @@
+name = "GAP_pkg_forms"
+uuid = "e83d47c0-0280-46da-a94c-e156da9218fd"
+repo = "https://github.com/oscar-system/GAP_pkg.git"
+subdir = "GAP_pkg_forms"
